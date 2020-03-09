@@ -256,8 +256,6 @@ C:\Users\hp\Projects\quanzhan\provisioning文件夹下roles.yml相关部分注�
     - ericsysmin.gcloud
 ```
 
-
-
 ## Git in Vagrant
 ### RouteA
 vagrant ssh之后，检测git版本，git --version，为2.17.1。
